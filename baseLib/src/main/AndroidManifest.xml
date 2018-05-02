@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="cn.hzxiaojietan.base">
+
+    <!--<application-->
+        <!--android:name=".application.ParkApplication"-->
+        <!--android:allowBackup="true"-->
+        <!--android:supportsRtl="true">-->
+        <!--&lt;!&ndash;<activity android:name=".business.illegalparking.activity.MainActivity">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>&ndash;&gt;-->
+    <!--</application>-->
+
+</manifest>
