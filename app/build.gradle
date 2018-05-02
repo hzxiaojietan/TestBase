@@ -17,6 +17,7 @@ android {
             minifyEnabled true
             debuggable true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+
             buildConfigField "String", "HTTP_SERVER_URL", '"http://192.168.0.24:8082/copyclerk/"'
         }
         release {
